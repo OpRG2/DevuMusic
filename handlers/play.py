@@ -175,10 +175,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/Dub_Anime_in_Hindi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/RG_Anime_Group"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -219,10 +219,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/Dub_Anime_in_Hindi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/RG_Anime_Group"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -240,10 +240,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/Dub_Anime_in_Hindi"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/RG_Anime_Group"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -299,10 +299,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/RG_Anime_Group"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/Dub_Anime_in_Hindi"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
